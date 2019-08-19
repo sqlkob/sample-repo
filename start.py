@@ -4,9 +4,6 @@ from os import rename
 
 import requests
 
-
-import rename
-
 print(sys.version)
 print(sys.executable)
 # testing
